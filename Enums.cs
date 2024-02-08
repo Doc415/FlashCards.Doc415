@@ -28,4 +28,12 @@ internal class Enums
         DeleteFlashcard,
         ReturnToMainMenu
     }
+
+    public enum StudyAreaSelections
+    {
+        StartNewStudy,
+        ViewStudies,
+        Statistics,
+        QuitToMainMenu
+    }
 }
